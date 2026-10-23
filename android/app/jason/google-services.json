@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "607484894410",
+    "project_id": "daffa1",
+    "storage_bucket": "daffa1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607484894410:android:d5446223de03ea3aa36833",
+        "android_client_info": {
+          "package_name": "com.example.pertemuan3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnOnRP2qYY8aSssKE6tTwyk8K3X5VomVE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
